@@ -1,0 +1,12 @@
+
+.center{
+    display: flex;
+    justify-content: center;
+}
+.center h1{
+    color: rgb(122, 128, 128);
+    font-size: 3rem;
+    border: 5px dashed red;
+    
+    padding: 0.5rem;
+}
